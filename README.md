@@ -7,6 +7,8 @@ This is a summary of infrared small target detection algorithms in single-frame 
 
 ## Papers
 
+https://img.shields.io/badge/link-paper-blue
+
 
 
       
