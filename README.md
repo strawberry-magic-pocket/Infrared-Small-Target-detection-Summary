@@ -6,7 +6,7 @@ This is a summary of infrared small target detection algorithms in single-frame 
 - [Dataset for infrared image dim-small aircraft target detection and tracking under ground / air background](http://www.dx.doi.org/10.11922/sciencedb.902): The dataset is provided by the National University of Defense Technology(NUDT). [![](https://img.shields.io/badge/link-paper-blue)](https://www.aeroweaponry.avic.com/CN/10.12132/ISSN.1673-5048.2019.0234)
 - Others
  
-   I have collected some infrared images containing small targets from Github, and uploaded them to this repository. You can download and use them, but **please don't forget to cite the original authors' literature**.
+   I have collected some infrared images containing small targets from Github, and have uploaded them to this repository. You can download and use them, but **please don't forget to cite the original authors' literatures**.
 ## Papers
 ### I. Background Characteristics-Based methods
 These methods are widely used to estimate the background so as to achieve target detection according to the difference between the original infrared images and the evaluated background.
